@@ -13,7 +13,7 @@ describe 'fizzbuzz' do
 end
 
 describe 'fizzbuzz' do
-  it 'returns "Fizzbuzz" when passed 5' do
+  it 'returns "Fizzbuzz" when passed 15' do
     expect(fizzbuzz(15)).to eq 'Fizzbuzz'
   end
 end
